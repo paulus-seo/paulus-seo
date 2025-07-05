@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-logo&logo=linkedin&logoColor=white)](https://kr.linkedin.com/in/%EB%B0%94%EC%9A%B8-%EC%84%9C-1a1567367)
+
 <!--
 **paulus-seo/paulus-seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
