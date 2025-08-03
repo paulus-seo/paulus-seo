@@ -2,7 +2,7 @@
 As a Systems Engineer within the Parking Robot Development Team at Hyundai-WIA, my primary role involves the end-to-end development of our autonomous robotic systems. <br><br>
 Beyond my core responsibilities, I have a keen interest in system architecture, focusing on how to build robust and scalable solutions. I am also a strong advocate for improving the developer experience (DX), as I believe a great product stems from a great development environment.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-logo&logo=linkedin&logoColor=white)](https://kr.linkedin.com/in/%EB%B0%94%EC%9A%B8-%EC%84%9C-1a1567367)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-logo&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulusseo/)
 
 ## 🛠️ Tech Stack
 <p>
