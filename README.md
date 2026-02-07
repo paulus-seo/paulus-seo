@@ -17,6 +17,11 @@ paulus-seo@hyundai-wia:~$ cat ./profile/bio.txt
 
 <table align="center">
   <tr>
+    <td colspan="2" align="center">
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top" align="center">
       <h3>🛠️ Tech Stack</h3>
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -40,11 +45,6 @@ paulus-seo@hyundai-wia:~$ cat ./profile/bio.txt
       <a href="mailto:m9472757c@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
     </td>
   </tr>
 </table>
