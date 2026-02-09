@@ -29,7 +29,7 @@ paulus-seo@hyundai-wia:~$ cat ./profile/bio.txt
 </div>
 
 <div align="center">
-  <h3>🤖 Robotics & Core Systems</h3>
+  <h2>🤖 Robotics & Core Systems</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,python,cmake,linux,ubuntu&theme=dark" />
     <br>
@@ -38,7 +38,7 @@ paulus-seo@hyundai-wia:~$ cat ./profile/bio.txt
 
   <br>
 
-  <h3>🕹️ Control & Monitoring Systems</h3>
+  <h2>🕹️ Control & Monitoring Systems</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,fastapi,mongodb,postgres,sqlite&theme=dark" />
     <br>
@@ -47,14 +47,14 @@ paulus-seo@hyundai-wia:~$ cat ./profile/bio.txt
 
   <br>
 
-  <h3>⚙️ DevOps & Tools</h3>
+  <h2>⚙️ DevOps & Tools</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vim&theme=dark" />
   </a>
   
   <br>
   
-  <h3>🎨 Simulation & Legacy Exp.</h3>
+  <h2>🎨 Simulation & Legacy Exp.</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,qt,django,flask&theme=dark" />
   </a>
