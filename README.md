@@ -59,4 +59,3 @@ paulus-seo@hyundai-wia:~$ cat ./profile/bio.txt
     <img src="https://skillicons.dev/icons?i=unity,qt,django,flask&theme=dark" />
   </a>
 </div>
-
